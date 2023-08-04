@@ -1,0 +1,86 @@
+.app-menu{
+    background: #0c181c!important;
+}
+
+.swal2-modal .swal2-confirm {
+    background: #64dd17!important;
+}
+
+.text-primary {
+    color: #64dd17!important;
+}
+
+tbody{
+    text-align: center;
+}
+
+.contenido{
+    padding-top: 73px!important;
+}
+
+.productos{
+    width: 137px;
+}
+
+.logo{
+    width: 93px!important;
+    height: 79px!important;
+    margin-top: 20px!important;
+}
+
+.logoPequeño{
+    width: 50px!important;
+    height: 35px!important;  
+}
+
+html[data-sidenav-size=condensed]:not([data-layout=horizontal]) .app-menu .logo-box {
+    background: #64dd17!important;
+}
+
+.logo-sm{
+    width: 46px;
+}
+
+.marca{
+    color: #bdbdbd;
+}
+
+.icono{
+    width: 93px!important;
+    height: 79px!important;
+    margin-left: 56px;
+    opacity: 0.5;
+}
+
+h3,
+h5,
+.bloc{
+    margin-left: 56px;
+}
+
+.bloc{
+    margin-top: -23px!important;
+    width: 354px;
+}
+
+.block{
+    width: 300px!important;
+    margin-left: 151px!important;
+    cursor: pointer;
+}
+
+.descripcion{
+    text-align: justify;
+}
+
+.card{
+    margin-bottom: 91px;
+}
+
+label{
+    margin-bottom: 15px;
+}
+
+.nuevoProducto{
+    margin-bottom: 20px;
+}
