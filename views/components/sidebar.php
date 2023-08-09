@@ -74,12 +74,12 @@
 
             <!--- Companies Menu -->
             <li class="menu-item companies">
-                <a href="#menuEcommerce" data-bs-toggle="collapse" class="menu-link  colorletra">
+                <a href="#menuCompañia" data-bs-toggle="collapse" class="menu-link  colorletra">
                     <span class="menu-icon"><i data-feather="briefcase"></i></span>
                     <span class="menu-text"> Compañias </span>
                     <span class="menu-arrow"></span>
                 </a>
-                <div class="collapse" id="menuEcommerce">
+                <div class="collapse" id="menuCompañia">
                     <ul class="sub-menu">
                         <li class="menu-item">
                             <a href="?c=companies&m=index" class="menu-link">
@@ -93,12 +93,12 @@
 
             <!--- Products Menu -->
             <li class="menu-item products">
-                <a href="#menuEcommerce" data-bs-toggle="collapse" class="menu-link colorletra">
+                <a href="#menuProductos" data-bs-toggle="collapse" class="menu-link colorletra">
                     <span class="menu-icon"><i data-feather="package"></i></span>
                     <span class="menu-text"> Productos </span>
                     <span class="menu-arrow"></span>
                 </a>
-                <div class="collapse" id="menuEcommerce">
+                <div class="collapse" id="menuProductos">
                     <ul class="sub-menu">
                         <li class="menu-item">
                             <a href="?c=products&m=index" class="menu-link">
