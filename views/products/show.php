@@ -12,7 +12,7 @@
                     <div class="col-md-3 offset-md-4">
                         <img src="./assets/images/icono.png" class="icono">
                     </div>
-                    <div class="col-md-5 offset-md-1">
+                    <div class="col-md-5 offset-md-1 mt-3">
                         <img src="./assets/images/bloc.png" class="bloc">
                     </div>
                     <div class="col-md-4 mt-4">
